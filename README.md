@@ -9,10 +9,10 @@ From acing interviews and building an authentic personal brand to practicing tru
 
 Your perspective matters: bring your own stories and let’s discuss how the power of a good story can help accelerate your career in Tech.
 
-The presentation can be found [here](link). {The repo with code [here](link).}
+The presentation can be found [here](link). 
 
 ## Video record
 Re-watch [this YouTube stream](link)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams, @stoicol
