@@ -1,19 +1,15 @@
-# {Event name}
+# Storytelling Mindset: Transforming Tech Careers By Crafting Powerful Connections
 
-## Meetup description
-This meetup is all about {meetup topic description}.
+## Workshop description
+A big misconception about succeeding in Tech is that the smartest person gets the furthest. In reality, getting far is less about competition and more about building connections.
 
-### Talk 1 - {Name of the talk}
+A great story allows people to connect to great ideas, which makes storytelling one of the most effective tools in your professional toolbox.
 
-{Talk description}
+From acing interviews and building an authentic personal brand to practicing true leadership and building successful teams, join this interactive workshop to learn what makes a good story and how getting better at storytelling can help you advance your career in tech.
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+Your perspective matters: bring your own stories and let’s discuss how the power of a good story can help accelerate your career in Tech.
 
-### Talk 2 - {Name of the talk}
-
-{Talk description}
-
-The presentation can be find [here](link). {The repo with code [here](link).}
+The presentation can be found [here](link). {The repo with code [here](link).}
 
 ## Video record
 Re-watch [this YouTube stream](link)
