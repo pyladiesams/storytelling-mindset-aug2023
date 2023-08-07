@@ -12,7 +12,7 @@ Your perspective matters: bring your own stories and let’s discuss how the pow
 The presentation can be found [here](link). 
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/TYH5AXxPj1Q?feature=share)
 
 ## Credits
 This event was set up by @pyladiesams, @stoicol
