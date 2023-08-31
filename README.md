@@ -9,7 +9,7 @@ From acing interviews and building an authentic personal brand to practicing tru
 
 Your perspective matters: bring your own stories and let’s discuss how the power of a good story can help accelerate your career in Tech.
 
-The presentation can be found [here](). 
+The presentation can be found [here](presentations/Storytelling_mindset.pdf). 
 
 ## Video record
 Re-watch [this YouTube stream](https://www.youtube.com/live/TYH5AXxPj1Q?feature=share)
